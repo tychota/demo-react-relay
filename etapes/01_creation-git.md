@@ -1,6 +1,7 @@
 Etapes 01 : création d'un projet GIT
 ------
 
+* on installe git
 * créer un nouveau dossier
 * créer un fichier `.gitignore` et ce fichier `readme.md`
 * créer un repertoire Git via les commandes `git init` et `git add .`

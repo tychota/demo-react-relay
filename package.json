@@ -1,0 +1,25 @@
+{
+  "name": "french-demo-react-relay",
+  "version": "0.2.0",
+  "description": "Un tutorial en francais pour créer une application en React et Relay/graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tychota/demo-react-relay.git"
+  },
+  "keywords": [
+    "React",
+    "Relay",
+    "Graphql",
+    "French"
+  ],
+  "author": "Tycho Tatitscheff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tychota/demo-react-relay/issues"
+  },
+  "homepage": "https://github.com/tychota/demo-react-relay#readme"
+}

@@ -11,7 +11,7 @@ React.JS / Relay et se veut clair et simple.
 
 Je suis ouvert à toutes sugestions, remarques, ect.
 
-Contract morale
+Contrat moral
 ---------------
 
 Ce projet est une reussite si n'importe quelle personne débutante peut
@@ -37,3 +37,4 @@ On peut donc faire `git checkout 01_création.md` pour revenir à l'étape initi
 
 
 1. [création d'un repertoire Git](etapes/01_creation-git.md)
+2. [initialisation d'un projet Npm](etapes/02_initialisation-npm.md)
