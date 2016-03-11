@@ -1,13 +1,15 @@
-'use strict';
-
-const React = require('react');
-const ReactDOM = require('react-dom');
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 
-const App = React.createClass({
-  render: function() {
-    return React.createElement('div', { }, "Hello, world.");
+class App extends React.Component {
+  render() {
+    return (
+      <div>
+        Hello, world.
+      </div>
+    );
   }
-});
+};
 
-ReactDOM.render(React.createElement(App), document.getElementById("example"));
+ReactDOM.render(<App/>, document.getElementById("example"));

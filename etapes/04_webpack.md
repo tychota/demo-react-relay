@@ -1,4 +1,4 @@
-Etapes 03 : ajout de webpack
+Etapes 04 : ajout de webpack
 ------
 
 Avant de commencer l'explication : 
