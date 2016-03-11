@@ -4,7 +4,8 @@
   "description": "Un tutorial en francais pour créer une application en React et Relay/graphQL",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./node_modules/.bin/webpack-dev-server --content-base app",
+    "test": "echo \"Pas de test (encore)\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/tychota/demo-react-relay/issues"
   },
-  "homepage": "https://github.com/tychota/demo-react-relay#readme"
+  "homepage": "https://github.com/tychota/demo-react-relay#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "dependencies": {
+    "react": "^15.0.0-rc.1",
+    "react-dom": "^15.0.0-rc.1"
+  }
 }
