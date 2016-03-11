@@ -40,4 +40,4 @@ On peut donc faire `git checkout 01_création.md` pour revenir à l'étape initi
 2. [initialisation d'un projet Npm](etapes/02_initialisation-npm.md)
 3. [ajout naif de react](etapes/03_ajout-react-simple.md)
 4. [ajout de webpack](etapes/04_webpack.md)
-5. [ajout de babel](etapes/04_webpack.md)
+5. [ajout de babel](etapes/05_babel.md)
