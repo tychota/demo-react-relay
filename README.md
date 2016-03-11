@@ -1,7 +1,7 @@
 React-Relay Demo
 =================
 
-Ce projet est réalisé pour servir d'exemples
+Ce projet est réalisé pour servir d'exemple
 pour les journées informatiques Arts et Métiers 2016.
 
 Il est réalisé par Tycho Tatitscheff et publié sous licence MIT.
@@ -11,13 +11,29 @@ React.JS / Relay et se veut clair et simple.
 
 Je suis ouvert à toutes sugestions, remarques, ect.
 
+Contract morale
+---------------
+
+Ce projet est une reussite si n'importe quelle personne débutante peut
+réaliser un petit projet en suivant les étapes proposées.
+
+Je vous invite à ne pas utiliser ce projet en boilerplate (copie collé de la version finale)
+mais à le suivre comme un tutorial.
+
+Technologies visées
+-------------------
+
+- javascipt ES6 (nouvelle version, plus jolie, plus fonctionelle)
+- react JS (une technologie open source de facebook pour faire des interfaces)
+- relay/graphql (des technologies open sources de facebook pour faire des API)
+
 Etapes 
 ------
 
-Les étapes sont stoqué dans le dossier etapes sous la forme `./etapes/xx_yyyyyy.md`.
+Les étapes sont stoqués dans le dossier `etapes sous la forme `./etapes/xx_yyyyyy.md`.
 
 Un tag git correspond à chaque changement d'étape.
 On peut donc faire `git checkout 01_création.md` pour revenir à l'étape initiale.
 
 
-1. [création d'un repertoire Git](01_creation-git.md)
+1. [création d'un repertoire Git](etapes/01_creation-git.md)
