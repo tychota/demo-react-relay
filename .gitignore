@@ -1,0 +1,95 @@
+# Ce fichier nous permet d'ignorer certains fichiers
+# qui sont temporaires (logs), secrets (config et mot de passe) 
+# personel (configuration de l'ide) ou juste généré automatiquement
+
+# On ignore les dépendances (automatiquement retéléchargées et reinstalllées)
+node_modules
+jspm_packages
+.npm
+.node_repl_history
+.nvm-version
+
+# On ignore les produit de transpilation (un peu comme la compilation)
+build/Release
+
+# On ignore les logs
+logs
+*.log
+npm-debug.log*
+
+# On ignore la runtime data (fichiers laissés parfois par les process)
+pids
+*.pid
+*.seed
+
+# On ignore les résultats du code
+lib-cov
+coverage
+
+# Autres
+.grunt
+.lock-wscript
+
+# on ignore les ide les plus courants
+.vscode
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
+*.swp
+*~
+.project
+debug.log
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/mongoSettings.xml
+*.iws
+/out/
+.idea_modules/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+*~
+.fuse_hidden*
+.directory
+.Trash-*
