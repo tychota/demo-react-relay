@@ -1,6 +1,8 @@
 React-Relay Demo
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tychota/demo-react-relay.svg)](https://greenkeeper.io/)
+
 Ce projet est réalisé pour servir d'exemple
 pour les journées informatiques Arts et Métiers 2016.
 
